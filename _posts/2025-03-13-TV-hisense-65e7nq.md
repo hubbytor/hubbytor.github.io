@@ -10,7 +10,7 @@ tags: [tv]     # TAG names should always be lowercase
 
 
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/7oW0HdJAN9w" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/7oW0HdJAN9w" frameborder="0"> </iframe>
 
 ![Hisense 65E7NQ Testbericht](https://m.media-amazon.com/images/I/71cz8c39PQL._AC_SL1500_.jpg)
 
