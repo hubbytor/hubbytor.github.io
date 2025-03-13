@@ -8,6 +8,10 @@ tags: [3d-drucker]     # TAG names should always be lowercase
 
 # Bambu Lab A1 Testbericht
 
+
+{% include embed/{youtube}.html id='{IfQuG44kjMQ}' %}
+
+
 ![Bambu Lab A1 Testbericht](https://m.media-amazon.com/images/I/71HJ5UqzgXL._AC_SL1500_.jpg)
 
 Der **Bambu Lab A1 Testbericht** bietet moderne Drucktechnologie für Hobbyisten und Profis. Doch wie schlägt sich das Gerät im Alltag? Hier unser ausführlicher Testbericht.

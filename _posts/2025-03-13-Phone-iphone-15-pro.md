@@ -8,6 +8,10 @@ tags: [smartphone]     # TAG names should always be lowercase
 
 # Apple iPhone 16 Pro Testbericht
 
+
+{% include embed/{youtube}.html id='{WtoR_QQDjlo}' %}
+
+
 ![Apple iPhone 16 Pro Testbericht](https://m.media-amazon.com/images/I/71d7rfSl0wL._AC_SL1500_.jpg)
 
 Das **Apple iPhone 16 Pro Testbericht** bringt innovative Technologie und leistungsstarke Features. Doch wie schlägt es sich im Alltag? Hier unser ausführlicher Testbericht.

@@ -8,6 +8,10 @@ tags: [tv]     # TAG names should always be lowercase
 
 # Samsung QE65Q60DAU Testbericht
 
+
+{% include embed/{youtube}.html id='{CCmCDiPH8os}' %}
+
+
 ![Samsung QE65Q60DAU Testbericht](https://m.media-amazon.com/images/I/71SCJhzs5HL._AC_SL1500_.jpg)
 
 Der **Samsung QE65Q60DAU Testbericht** bringt moderne Technologie und gestochen scharfe Bilder in dein Wohnzimmer. Doch lohnt sich die Anschaffung? Hier unser ausführlicher Testbericht.

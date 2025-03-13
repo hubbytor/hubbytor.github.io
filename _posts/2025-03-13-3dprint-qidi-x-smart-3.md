@@ -8,6 +8,10 @@ tags: [3d-drucker]     # TAG names should always be lowercase
 
 # QIDI Tech X-Smart 3 Testbericht
 
+
+{% include embed/{youtube}.html id='{ramCqzIgqw4}' %}
+
+
 ![QIDI Tech X-Smart 3 Testbericht](https://m.media-amazon.com/images/I/71FcJLLrlVL._AC_SL1500_.jpg)
 
 

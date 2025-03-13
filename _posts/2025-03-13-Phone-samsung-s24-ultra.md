@@ -8,6 +8,10 @@ tags: [smartphone]     # TAG names should always be lowercase
 
 # Samsung Galaxy S24 Ultra Testbericht
 
+
+{% include embed/{youtube}.html id='{nWo2OhIq1bQ}' %}
+
+
 ![Samsung Galaxy S24 Ultra Testbericht](https://m.media-amazon.com/images/I/81r3V0Du7pL._AC_SL1500_.jpg)
 
 Das **Samsung Galaxy S24 Ultra Testbericht** bringt innovative Technologie und leistungsstarke Features. Doch wie schlägt es sich im Alltag? Hier unser ausführlicher Testbericht.

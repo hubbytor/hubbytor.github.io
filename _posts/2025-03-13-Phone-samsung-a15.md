@@ -8,6 +8,10 @@ tags: [smartphone]     # TAG names should always be lowercase
 
 # Samsung Galaxy A15 Testbericht
 
+
+{% include embed/{youtube}.html id='{oqY-S9CQ8tk}' %}
+
+
 ![Samsung Galaxy A15 Testbericht](https://m.media-amazon.com/images/I/71A26ox8S4L._AC_SL1500_.jpg)
 
 Das **Samsung Galaxy A15 Testbericht** bringt innovative Technologie und leistungsstarke Features. Doch wie schlägt es sich im Alltag? Hier unser ausführlicher Testbericht.

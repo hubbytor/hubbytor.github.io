@@ -8,6 +8,10 @@ tags: [3d-drucker]     # TAG names should always be lowercase
 
 # Anycubic Kobra 2 Max Testbericht
 
+
+{% include embed/{youtube}.html id='{FIPzENsQWhI}' %}
+
+
 ![Anycubic Kobra 2 Max Testbericht](https://m.media-amazon.com/images/I/71DF9ML7RmL._AC_SL1500_.jpg)
 
 Der **Anycubic Kobra 2 Max Testbericht** bietet moderne Drucktechnologie für Hobbyisten und Profis. Doch wie schlägt sich das Gerät im Alltag? Hier unser ausführlicher Testbericht.

@@ -8,6 +8,10 @@ tags: [smartphone]     # TAG names should always be lowercase
 
 # Samsung Galaxy S22 Testbericht
 
+
+{% include embed/{youtube}.html id='{h9ESivZFan0}' %}
+
+
 ![Samsung Galaxy S22 Testbericht](https://m.media-amazon.com/images/I/71Sa3dqG+lL._AC_SL1500_.jpg)
 
 Das **Samsung Galaxy S22 Testbericht** bringt innovative Technologie und leistungsstarke Features. Doch wie schlägt es sich im Alltag? Hier unser ausführlicher Testbericht.

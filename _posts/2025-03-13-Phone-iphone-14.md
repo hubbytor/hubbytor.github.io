@@ -8,6 +8,10 @@ tags: [smartphone]     # TAG names should always be lowercase
 
 # Apple iPhone 14 Testbericht
 
+
+{% include embed/{youtube}.html id='{b4pudAVB1Qs}' %}
+
+
 ![Apple iPhone 14 Testbericht](https://m.media-amazon.com/images/I/71WEd-+xwFL._AC_SL1500_.jpg)
 
 Das **Apple iPhone 14 Testbericht** bringt innovative Technologie und leistungsstarke Features. Doch wie schlägt es sich im Alltag? Hier unser ausführlicher Testbericht.

@@ -8,6 +8,10 @@ tags: [3d-drucker]     # TAG names should always be lowercase
 
 # Creality K1C Testbericht
 
+
+{% include embed/{youtube}.html id='{xuEUFDmoVOA}' %}
+
+
 ![Creality K1C Testbericht](https://m.media-amazon.com/images/I/81nItxEvpkL._AC_SL1500_.jpg)
 
 Der **Creality K1C Testbericht** bietet moderne Drucktechnologie für Hobbyisten und Profis. Doch wie schlägt sich das Gerät im Alltag? Hier unser ausführlicher Testbericht.

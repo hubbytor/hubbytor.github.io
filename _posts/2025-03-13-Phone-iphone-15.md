@@ -8,6 +8,10 @@ tags: [smartphone]     # TAG names should always be lowercase
 
 # Apple iPhone 15 Testbericht
 
+
+{% include embed/{youtube}.html id='{Yfo7EXGbkGA}' %}
+
+
 ![Apple iPhone 15 Testbericht](https://m.media-amazon.com/images/I/71TPda7cwUL._AC_SL1500_.jpg)
 
 Das **Apple iPhone 15 Testbericht** bringt innovative Technologie und leistungsstarke Features. Doch wie schlägt es sich im Alltag? Hier unser ausführlicher Testbericht.

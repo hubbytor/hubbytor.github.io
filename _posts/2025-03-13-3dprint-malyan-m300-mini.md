@@ -8,6 +8,10 @@ tags: [3d-drucker]     # TAG names should always be lowercase
 
 # MALYAN M300 Mini Testbericht
 
+
+{% include embed/{youtube}.html id='{LRhLVZjzXFw}' %}
+
+
 ![MALYAN M300 Mini Testbericht](https://m.media-amazon.com/images/I/71Y2uGqVqWL._AC_SL1500_.jpg)
 
 Der **MALYAN M300 Mini Testbericht** bietet moderne Drucktechnologie für Hobbyisten und Profis. Doch wie schlägt sich das Gerät im Alltag? Hier unser ausführlicher Testbericht.
