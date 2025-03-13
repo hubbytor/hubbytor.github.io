@@ -9,7 +9,8 @@ tags: [3d-drucker]     # TAG names should always be lowercase
 # QIDI Tech X-Smart 3 Testbericht
 
 ![QIDI Tech X-Smart 3 Testbericht](https://m.media-amazon.com/images/I/71FcJLLrlVL._AC_SL1500_.jpg)
-![QIDI Tech X-Smart 3 Testbericht](https://amzn.to/4kL8clc)
+
+
 Der **QIDI Tech X-Smart 3 Testbericht** bietet moderne Drucktechnologie für Hobbyisten und Profis. Doch wie schlägt sich das Gerät im Alltag? Hier unser ausführlicher Testbericht.
 
 ## Design & Verarbeitung

@@ -49,6 +49,6 @@ Das **Apple iPhone 15 Testbericht** überzeugt mit seinem starken Display, guter
 **👍 Ideal für:** Nutzer, die Wert auf Performance, Kameraqualität und ein hochwertiges Design legen.  
 **👎 Weniger geeignet für:** Nutzer, die einen erweiterbaren Speicher oder ein Netzteil im Lieferumfang erwarten.
 
-[Apple iPhone 15 Testbericht auf Amazon ansehen](https://www.amazon.de/dp/B0CHXFCYCR)*
+[Apple iPhone 15 Testbericht auf Amazon ansehen](https://amzn.to/4iMw6uT)*
 
 *Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*

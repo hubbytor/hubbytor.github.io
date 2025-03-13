@@ -44,6 +44,6 @@ Der **Samsung QE65Q60DAU Testbericht** ist eine gute Wahl für Film- und Serienl
 **👍 Ideal für:** Film- und Serienfans, die einen modernen Smart-TV suchen.  
 **👎 Weniger geeignet für:** Gamer, die hohe Bildwiederholraten benötigen.
 
-[Samsung QE65Q60DAU Testbericht auf Amazon ansehen](https://www.amazon.de/dp/B0D54NRM3X)*
+[Samsung QE65Q60DAU Testbericht auf Amazon ansehen](https://amzn.to/4221obz)*
 
 *Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*

@@ -43,6 +43,6 @@ Der **Anycubic Kobra 2 Max Testbericht** überzeugt mit hoher Druckqualität, zu
 **👍 Ideal für:** Hobbyisten und Profis, die Wert auf gute Druckqualität legen.  
 **👎 Weniger geeignet für:** Nutzer, die absolut lautlose Geräte bevorzugen.
 
-[Anycubic Kobra 2 Max Testbericht auf Amazon ansehen](https://www.amazon.de/dp/B0CH813V2M)*
+[Anycubic Kobra 2 Max Testbericht auf Amazon ansehen](https://amzn.to/43PO7nI)*
 
 *Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
