@@ -4,12 +4,11 @@ title: Impressum
 
 # Impressum
 
-**Dein Name oder Firmenname**  
-Straße und Hausnummer  
-PLZ Ort  
-Land  
 
-E-Mail: deine-email@example.com  
-Telefon: +49 123 4567890  
+Julian Kasmierz
+Mondstraße 4
+85609 Aschheim
+Deutschland
 
-Weitere rechtliche Hinweise je nach Anforderungen (z. B. Handelsregister, Umsatzsteuer-ID).
+E-Mail: blog@kasmierz.de
+Telefon: 49 - 15141910229
