@@ -9,7 +9,7 @@ tags: [tv]     # TAG names should always be lowercase
 # Hisense 65E7NQ Testbericht
 
 
-{% include embed/{youtube}.html id='{7oW0HdJAN9w}' %}
+{% include embed/{youtube}.html id='7oW0HdJAN9w' %}
 
 
 ![Hisense 65E7NQ Testbericht](https://m.media-amazon.com/images/I/71cz8c39PQL._AC_SL1500_.jpg)
