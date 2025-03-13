@@ -9,6 +9,10 @@ tags: [TV]     # TAG names should always be lowercase
 
 # Samsung 55Q60D QLED 4K Smart TV – Testbericht
 
+
+{% include embed/{youtube}.html id='{mz4Q13BXyjU}' %}
+
+
 ![Samsung 55Q60D](https://tse4.mm.bing.net/th?id=OIP.H72543SJtTF49H4PhiU7pgHaHa&pid=Api)
 
 Der **Samsung 55Q60D** ist ein 55-Zoll-QLED-Fernseher, der mit seiner schlanken Bauweise und starken Bildqualität überzeugt. Doch hält er, was er verspricht? Hier unser Testbericht.
