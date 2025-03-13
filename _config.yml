@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Marcs Technikblog # the main title
 
-tagline: Technikblog # it will display as the subtitle
+tagline: Testberichte und Schnäppchentipps # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Marcs Technikblog
