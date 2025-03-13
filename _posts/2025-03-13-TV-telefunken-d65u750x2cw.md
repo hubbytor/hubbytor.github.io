@@ -8,6 +8,10 @@ tags: [tv]     # TAG names should always be lowercase
 
 # TELEFUNKEN D65U750X2CW Testbericht
 
+
+{% include embed/{youtube}.html id='{FNiuzgCv7TA}' %}
+
+
 ![TELEFUNKEN D65U750X2CW Testbericht](https://m.media-amazon.com/images/I/81OXjL+c5JL._AC_SL1500_.jpg)
 
 Der **TELEFUNKEN D65U750X2CW Testbericht** bringt moderne Technologie und gestochen scharfe Bilder in dein Wohnzimmer. Doch lohnt sich die Anschaffung? Hier unser ausführlicher Testbericht.
