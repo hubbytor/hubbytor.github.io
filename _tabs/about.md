@@ -1,8 +1,15 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: Impressum
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Impressum
+
+**Dein Name oder Firmenname**  
+Straße und Hausnummer  
+PLZ Ort  
+Land  
+
+E-Mail: deine-email@example.com  
+Telefon: +49 123 4567890  
+
+Weitere rechtliche Hinweise je nach Anforderungen (z. B. Handelsregister, Umsatzsteuer-ID).
