@@ -2,7 +2,7 @@
 title: "Samsung QE65Q60DAU Testbericht"
 date: 2025-03-13
 categories: [SmartTV]
-tags: [tv]     # TAG names should always be lowercase
+tags: [smart_tv]     # TAG names should always be lowercase
 
 ---
 
