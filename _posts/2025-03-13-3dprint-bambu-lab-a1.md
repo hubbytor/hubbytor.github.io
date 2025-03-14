@@ -47,6 +47,6 @@ Der **Bambu Lab A1 Testbericht** überzeugt mit hoher Druckqualität, zuverläss
 **👍 Ideal für:** Hobbyisten und Profis, die Wert auf gute Druckqualität legen.  
 **👎 Weniger geeignet für:** Nutzer, die absolut lautlose Geräte bevorzugen.
 
-[Bambu Lab A1 Testbericht auf Amazon ansehen](https://amzn.to/424KTLO)*
+[Bambu Lab A1 auf Amazon ansehen](https://amzn.to/424KTLO)*
 
 *Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*

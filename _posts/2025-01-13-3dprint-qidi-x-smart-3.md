@@ -48,6 +48,6 @@ Der **QIDI Tech X-Smart 3 Testbericht** überzeugt mit hoher Druckqualität, zuv
 **👍 Ideal für:** Hobbyisten und Profis, die Wert auf gute Druckqualität legen.  
 **👎 Weniger geeignet für:** Nutzer, die absolut lautlose Geräte bevorzugen.
 
-[QIDI Tech X-Smart 3 Testbericht auf Amazon ansehen](https://amzn.to/4kL8clc)*
+[QIDI Tech X-Smart 3 auf Amazon ansehen](https://amzn.to/4kL8clc)*
 
 *Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
