@@ -6,7 +6,7 @@ tags: [staubsaugerroboter]     # TAG names should always be lowercase
 
 ---
 
-{% include embed/youtube.html id='IfQuG44kjMQ' %}
+{% include embed/youtube.html id='4bYE4yV_8JA' %}
 
 ![Roborock Saros 10R](https://m.media-amazon.com/images/I/71HJ5UqzgXL._AC_SL1500_.jpg)
 
