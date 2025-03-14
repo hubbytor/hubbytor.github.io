@@ -6,15 +6,15 @@ tags: [tv]     # TAG names should always be lowercase
 
 ---
 
-# TELEFUNKEN D65U750X2CW Testbericht
+
 
 
 {% include embed/youtube.html id='FNiuzgCv7TA' %}
 
 
-![TELEFUNKEN D65U750X2CW Testbericht](https://m.media-amazon.com/images/I/81OXjL+c5JL._AC_SL1500_.jpg)
+![TELEFUNKEN D65U750X2CW](https://m.media-amazon.com/images/I/81OXjL+c5JL._AC_SL1500_.jpg)
 
-Der **TELEFUNKEN D65U750X2CW Testbericht** bringt moderne Technologie und gestochen scharfe Bilder in dein Wohnzimmer. Doch lohnt sich die Anschaffung? Hier unser ausführlicher Testbericht.
+Der **TELEFUNKEN D65U750X2CW** bringt moderne Technologie und gestochen scharfe Bilder in dein Wohnzimmer. Doch lohnt sich die Anschaffung? Hier unser ausführlicher Testbericht.
 
 ## Design & Verarbeitung
 
@@ -43,7 +43,7 @@ Der **TELEFUNKEN D65U750X2CW Testbericht** bringt moderne Technologie und gestoc
 
 ## Fazit
 
-Der **TELEFUNKEN D65U750X2CW Testbericht** ist eine gute Wahl für Film- und Serienliebhaber mit solider 4K-Bildqualität und modernen Smart-Funktionen. Für Hardcore-Gamer könnten die fehlenden 120 Hz jedoch ein Nachteil sein.
+Der **TELEFUNKEN D65U750X2CW** ist eine gute Wahl für Film- und Serienliebhaber mit solider 4K-Bildqualität und modernen Smart-Funktionen. Für Hardcore-Gamer könnten die fehlenden 120 Hz jedoch ein Nachteil sein.
 
 **👍 Ideal für:** Film- und Serienfans, die einen modernen Smart-TV suchen.  
 **👎 Weniger geeignet für:** Gamer, die hohe Bildwiederholraten benötigen.

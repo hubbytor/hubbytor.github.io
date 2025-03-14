@@ -7,7 +7,6 @@ tags: [TV]     # TAG names should always be lowercase
 
 ---
 
-# Samsung 55Q60D QLED 4K Smart TV – Testbericht
 
 
 {% include embed/youtube.html id='mz4Q13BXyjU' %}

@@ -6,15 +6,15 @@ tags: [tv]     # TAG names should always be lowercase
 
 ---
 
-# Samsung QE65Q60DAU Testbericht
+
 
 
 {% include embed/youtube.html id='CCmCDiPH8os' %}
 
 
-![Samsung QE65Q60DAU Testbericht](https://m.media-amazon.com/images/I/71SCJhzs5HL._AC_SL1500_.jpg)
+![Samsung QE65Q60DAU](https://m.media-amazon.com/images/I/71SCJhzs5HL._AC_SL1500_.jpg)
 
-Der **Samsung QE65Q60DAU Testbericht** bringt moderne Technologie und gestochen scharfe Bilder in dein Wohnzimmer. Doch lohnt sich die Anschaffung? Hier unser ausführlicher Testbericht.
+Der **Samsung QE65Q60DAU** bringt moderne Technologie und gestochen scharfe Bilder in dein Wohnzimmer. Doch lohnt sich die Anschaffung? Hier unser ausführlicher Testbericht.
 
 ## Design & Verarbeitung
 
@@ -43,7 +43,7 @@ Der **Samsung QE65Q60DAU Testbericht** bringt moderne Technologie und gestochen 
 
 ## Fazit
 
-Der **Samsung QE65Q60DAU Testbericht** ist eine gute Wahl für Film- und Serienliebhaber mit solider 4K-Bildqualität und modernen Smart-Funktionen. Für Hardcore-Gamer könnten die fehlenden 120 Hz jedoch ein Nachteil sein.
+Der **Samsung QE65Q60DAU** ist eine gute Wahl für Film- und Serienliebhaber mit solider 4K-Bildqualität und modernen Smart-Funktionen. Für Hardcore-Gamer könnten die fehlenden 120 Hz jedoch ein Nachteil sein.
 
 **👍 Ideal für:** Film- und Serienfans, die einen modernen Smart-TV suchen.  
 **👎 Weniger geeignet für:** Gamer, die hohe Bildwiederholraten benötigen.
