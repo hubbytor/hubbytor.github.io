@@ -2,7 +2,7 @@
 title: "Samsung 55Q60D Testbericht"
 date: 2025-03-13
 categories: [SmartTV]
-tags: [TV]     # TAG names should always be lowercase
+tags: [smart_tv]     # TAG names should always be lowercase
 
 
 ---
