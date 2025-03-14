@@ -50,4 +50,7 @@ Der **Samsung 55Q60D** überzeugt mit gutem Design und der guten Bildqualität. 
 **👍 Ideal für:** Film- und Serienfans, die ein schlankes Design schätzen.  
 **👎 Weniger geeignet für:** Hardcore-Gamer, die Wert auf höchste Bildwiederholraten legen.
 
-[Samsung 55Q60D auf Amazon ansehen](https://amzn.to/3Fpmwj7)
+[Samsung 55Q60D auf Amazon ansehen](https://amzn.to/3Fpmwj7)*
+
+
+*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
