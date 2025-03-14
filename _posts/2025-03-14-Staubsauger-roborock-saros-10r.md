@@ -49,6 +49,6 @@ Der **Roborock Saros 10R** überzeugt mit starker Navigation, hoher Saugleistung
 **👍 Ideal für:** Haushalte mit vielen Möbeln und Haustieren.  
 **👎 Weniger geeignet für:** Nutzer, die eine intensive Wischfunktion mit rotierenden Pads erwarten.
 
-[Roborock Saros 10R auf Amazon ansehen](https://www.amazon.de/dp/B0DJ3284BS)*
+[Roborock Saros 10R auf Amazon ansehen](https://amzn.to/43Km6Oq)*
 
 *Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
