@@ -1,6 +1,6 @@
 ---
 title: "MALYAN M300 Mini Testbericht"
-date: 2024-11-12
+date: 2024-10-10
 categories: [3D-Drucker]
 tags: [3d-drucker]     # TAG names should always be lowercase
 
