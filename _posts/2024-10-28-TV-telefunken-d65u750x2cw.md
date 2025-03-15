@@ -1,6 +1,6 @@
 ---
 title: "TELEFUNKEN D65U750X2CW Testbericht"
-date: 2025-03-13
+date: 2024-10-28
 categories: [SmartTV]
 tags: [smart_tv]     # TAG names should always be lowercase
 

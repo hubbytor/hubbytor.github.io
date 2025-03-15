@@ -1,6 +1,6 @@
 ---
 title: "Apple iPhone 14 Testbericht"
-date: 2025-03-13
+date: 2024-03-13
 categories: [Smartphones]
 tags: [smartphone]     # TAG names should always be lowercase
 
