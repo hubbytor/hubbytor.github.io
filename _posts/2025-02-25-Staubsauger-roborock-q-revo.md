@@ -1,6 +1,6 @@
 ---
 title: "Roborock Q Revo Testbericht"
-date: 2025-03-13
+date: 2025-02-25
 categories: [Staubsaugerroboter]
 tags: [staubsaugerroboter]     # TAG names should always be lowercase
 

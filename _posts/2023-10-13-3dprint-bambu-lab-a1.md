@@ -1,6 +1,6 @@
 ---
 title: "Bambu Lab A1 Testbericht"
-date: 2025-03-13
+date: 2023-10-13
 categories: [3D-Drucker]
 tags: [3d-drucker]     # TAG names should always be lowercase
 

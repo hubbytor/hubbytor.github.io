@@ -1,6 +1,6 @@
 ---
 title: "Apple iPhone 15 Pro Testbericht"
-date: 2025-03-13
+date: 2024-01-13
 categories: [Smartphones]
 tags: [smartphone]     # TAG names should always be lowercase
 

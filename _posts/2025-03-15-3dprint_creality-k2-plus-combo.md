@@ -1,6 +1,6 @@
 ---
 title: "Creality K2 Plus Combo Testbericht"
-date: 2025-03-13
+date: 2025-03-15
 categories: [3D-Drucker]
 tags: [3d-drucker]     # TAG names should always be lowercase
 

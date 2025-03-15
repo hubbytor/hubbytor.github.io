@@ -1,6 +1,6 @@
 ---
-title: "MALYAN M300 Mini Testbericht"
-date: 2025-03-13
+title: "Creality K1C Testbericht"
+date: 2024-08-08
 categories: [3D-Drucker]
 tags: [3d-drucker]     # TAG names should always be lowercase
 
@@ -9,12 +9,12 @@ tags: [3d-drucker]     # TAG names should always be lowercase
 
 
 
-{% include embed/youtube.html id='LRhLVZjzXFw' %}
+{% include embed/youtube.html id='xuEUFDmoVOA' %}
 
 
-![MALYAN M300 Mini ](https://m.media-amazon.com/images/I/71Y2uGqVqWL._AC_SL1500_.jpg)
+![Creality K1C ](https://m.media-amazon.com/images/I/81nItxEvpkL._AC_SL1500_.jpg)
 
-Der **MALYAN M300 Mini** bietet moderne Drucktechnologie für Hobbyisten und Profis. Doch wie schlägt sich das Gerät im Alltag? Hier unser ausführlicher Testbericht.
+Der **Creality K1C** bietet moderne Drucktechnologie für Hobbyisten und Profis. Doch wie schlägt sich das Gerät im Alltag? Hier unser ausführlicher Testbericht.
 
 ## Design & Verarbeitung
 
@@ -42,11 +42,11 @@ Der **MALYAN M300 Mini** bietet moderne Drucktechnologie für Hobbyisten und Pro
 
 ## Fazit
 
-Der **MALYAN M300 Mini** überzeugt mit hoher Druckqualität, zuverlässiger Performance und einfacher Bedienung. Für Maker und Bastler eine solide Wahl.
+Der **Creality K1C** überzeugt mit hoher Druckqualität, zuverlässiger Performance und einfacher Bedienung. Für Maker und Bastler eine solide Wahl.
 
 **👍 Ideal für:** Hobbyisten und Profis, die Wert auf gute Druckqualität legen.  
 **👎 Weniger geeignet für:** Nutzer, die absolut lautlose Geräte bevorzugen.
 
-[MALYAN M300 Mini auf Amazon ansehen](https://amzn.to/4kNZGSz)*
+[Creality K1C auf Amazon ansehen](https://amzn.to/4bQiP21)*
 
 *Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*

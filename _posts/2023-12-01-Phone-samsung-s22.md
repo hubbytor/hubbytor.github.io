@@ -1,6 +1,6 @@
 ---
 title: "Samsung Galaxy S22 Testbericht"
-date: 2025-03-13
+date: 2023-12-01
 categories: [Smartphones]
 tags: [smartphone]     # TAG names should always be lowercase
 

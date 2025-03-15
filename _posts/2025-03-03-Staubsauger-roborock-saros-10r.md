@@ -1,6 +1,6 @@
 ---
 title: "Roborock Saros 10R Testbericht"
-date: 2025-03-13
+date: 2025-03-03
 categories: [Staubsaugerroboter]
 tags: [staubsaugerroboter]     # TAG names should always be lowercase
 

@@ -1,6 +1,6 @@
 ---
 title: "Hisense 65E7NQ Testbericht"
-date: 2025-03-13
+date: 2024-08-19
 categories: [SmartTV]
 tags: [smart_tv]     # TAG names should always be lowercase
 

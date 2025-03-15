@@ -1,6 +1,6 @@
 ---
-title: "Creality K1C Testbericht"
-date: 2025-03-13
+title: "QIDI Tech X-Smart 3 Testbericht"
+date: 2025-02-01
 categories: [3D-Drucker]
 tags: [3d-drucker]     # TAG names should always be lowercase
 
@@ -9,12 +9,13 @@ tags: [3d-drucker]     # TAG names should always be lowercase
 
 
 
-{% include embed/youtube.html id='xuEUFDmoVOA' %}
+{% include embed/youtube.html id='ramCqzIgqw4' %}
 
 
-![Creality K1C ](https://m.media-amazon.com/images/I/81nItxEvpkL._AC_SL1500_.jpg)
+![QIDI Tech X-Smart 3 Testbericht](https://m.media-amazon.com/images/I/71FcJLLrlVL._AC_SL1500_.jpg)
 
-Der **Creality K1C** bietet moderne Drucktechnologie für Hobbyisten und Profis. Doch wie schlägt sich das Gerät im Alltag? Hier unser ausführlicher Testbericht.
+
+Der **QIDI Tech X-Smart 3** bietet moderne Drucktechnologie für Hobbyisten und Profis. Doch wie schlägt sich das Gerät im Alltag? Hier unser ausführlicher Testbericht.
 
 ## Design & Verarbeitung
 
@@ -42,11 +43,11 @@ Der **Creality K1C** bietet moderne Drucktechnologie für Hobbyisten und Profis.
 
 ## Fazit
 
-Der **Creality K1C** überzeugt mit hoher Druckqualität, zuverlässiger Performance und einfacher Bedienung. Für Maker und Bastler eine solide Wahl.
+Der **QIDI Tech X-Smart 3** überzeugt mit hoher Druckqualität, zuverlässiger Performance und einfacher Bedienung. Für Maker und Bastler eine solide Wahl.
 
 **👍 Ideal für:** Hobbyisten und Profis, die Wert auf gute Druckqualität legen.  
 **👎 Weniger geeignet für:** Nutzer, die absolut lautlose Geräte bevorzugen.
 
-[Creality K1C auf Amazon ansehen](https://amzn.to/4bQiP21)*
+[QIDI Tech X-Smart 3 auf Amazon ansehen](https://amzn.to/4kL8clc)*
 
 *Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*

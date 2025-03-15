@@ -1,6 +1,6 @@
 ---
 title: "Dreame x40 Ultra Testbericht"
-date: 2025-03-13
+date: 2025-02-13
 categories: [Staubsaugerroboter]
 tags: [staubsaugerroboter]     # TAG names should always be lowercase
 

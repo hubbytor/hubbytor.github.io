@@ -1,6 +1,6 @@
 ---
-title: "Anycubic Kobra 2 Max Testbericht"
-date: 2025-03-13
+title: "MALYAN M300 Mini Testbericht"
+date: 2024-11-12
 categories: [3D-Drucker]
 tags: [3d-drucker]     # TAG names should always be lowercase
 
@@ -9,12 +9,12 @@ tags: [3d-drucker]     # TAG names should always be lowercase
 
 
 
-{% include embed/youtube.html id='FIPzENsQWhI' %}
+{% include embed/youtube.html id='LRhLVZjzXFw' %}
 
 
-![Anycubic Kobra 2 Max](https://m.media-amazon.com/images/I/71DF9ML7RmL._AC_SL1500_.jpg)
+![MALYAN M300 Mini ](https://m.media-amazon.com/images/I/71Y2uGqVqWL._AC_SL1500_.jpg)
 
-Der **Anycubic Kobra 2 Max** bietet moderne Drucktechnologie für Hobbyisten und Profis. Doch wie schlägt sich das Gerät im Alltag? Hier unser ausführlicher Testbericht.
+Der **MALYAN M300 Mini** bietet moderne Drucktechnologie für Hobbyisten und Profis. Doch wie schlägt sich das Gerät im Alltag? Hier unser ausführlicher Testbericht.
 
 ## Design & Verarbeitung
 
@@ -42,11 +42,11 @@ Der **Anycubic Kobra 2 Max** bietet moderne Drucktechnologie für Hobbyisten und
 
 ## Fazit
 
-Der **Anycubic Kobra 2 Max** überzeugt mit hoher Druckqualität, zuverlässiger Performance und einfacher Bedienung. Für Maker und Bastler eine solide Wahl.
+Der **MALYAN M300 Mini** überzeugt mit hoher Druckqualität, zuverlässiger Performance und einfacher Bedienung. Für Maker und Bastler eine solide Wahl.
 
 **👍 Ideal für:** Hobbyisten und Profis, die Wert auf gute Druckqualität legen.  
 **👎 Weniger geeignet für:** Nutzer, die absolut lautlose Geräte bevorzugen.
 
-[Anycubic Kobra 2 Max auf Amazon ansehen](https://amzn.to/43PO7nI)*
+[MALYAN M300 Mini auf Amazon ansehen](https://amzn.to/4kNZGSz)*
 
 *Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
