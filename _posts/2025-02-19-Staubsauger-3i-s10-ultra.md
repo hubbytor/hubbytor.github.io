@@ -1,6 +1,6 @@
 ---
 title: "3i S10 Ultra Testbericht"
-date: 2025-03-13
+date: 2025-02-19
 categories: [Staubsaugerroboter]
 tags: [staubsaugerroboter]     # TAG names should always be lowercase
 
