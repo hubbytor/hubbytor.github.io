@@ -1,6 +1,6 @@
 ---
 title: "Anker Soundcore 2 Bluetooth Lautsprecher – Testbericht"
-date: 2025-03-13
+date: 2025-02-03
 categories: [Audio]
 tags: [lautsprecher, bluetooth, anker, soundcore]
 
