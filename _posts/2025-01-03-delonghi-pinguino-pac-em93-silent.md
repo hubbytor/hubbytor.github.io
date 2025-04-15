@@ -72,4 +72,6 @@ Wer also im Sommer nicht mehr schwitzen will, bekommt hier ein rundes Gesamtpake
 
 [De'Longhi Pinguino PAC EM93 Silent auf Amazon ansehen](https://amzn.to/4cGNXBF)*
 
+[Zugehörige Fensterabdichtung auf Amazon ansehen](https://amzn.to/3G83NZU)*
+
 *Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
