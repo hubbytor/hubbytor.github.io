@@ -54,8 +54,10 @@ Das **Samsung Galaxy S22** überzeugt mit seinem starken Display, guter Performa
 **👎 Weniger geeignet für:** Nutzer, die einen erweiterbaren Speicher oder ein Netzteil im Lieferumfang erwarten.
 
 
+*#AD*
+*Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+*As an Amazon Associate I earn from qualifying purchases.*
 
-*#AD Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
 
 
 [Samsung Galaxy S22 auf Amazon ansehen](https://amzn.to/41KOo8T)*
