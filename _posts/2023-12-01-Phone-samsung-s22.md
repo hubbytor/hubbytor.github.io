@@ -55,7 +55,6 @@ Das **Samsung Galaxy S22** überzeugt mit seinem starken Display, guter Performa
 
 
 *#Ad*
-
 *Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
 
 *As an Amazon Associate I earn from qualifying purchases.*

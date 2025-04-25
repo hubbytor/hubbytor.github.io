@@ -50,6 +50,11 @@ Er ist der ideale Bluetooth-Lautsprecher für den Alltag, für unterwegs oder ei
 **👍 Ideal für:** Alle, die einen robusten, mobilen und klangstarken Lautsprecher suchen.  
 **👎 Weniger geeignet für:** Audiophile, die extremen High-End-Sound erwarten.
 
-[Anker Soundcore 2 auf Amazon ansehen](https://amzn.to/44frERf)*
 
-*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+*#Ad*
+*Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
+[Anker Soundcore 2 auf Amazon ansehen](https://amzn.to/44frERf)*

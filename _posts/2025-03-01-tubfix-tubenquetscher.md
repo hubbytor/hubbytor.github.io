@@ -39,6 +39,11 @@ Besonders in Haushalten, die Wert auf Nachhaltigkeit legen, ist dieses praktisch
 **👍 Ideal für:** Haushalte, die Tuben effizient und sauber entleeren möchten.  
 **👎 Weniger geeignet für:** Nutzer, die sehr große oder besonders breite Tuben verwenden.
 
-[Tubfix® Tubenquetscher auf Amazon ansehen](https://amzn.to/3DThVp3)*  
 
-*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+*#Ad*
+*Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
+[Tubfix® Tubenquetscher auf Amazon ansehen](https://amzn.to/3DThVp3)*  

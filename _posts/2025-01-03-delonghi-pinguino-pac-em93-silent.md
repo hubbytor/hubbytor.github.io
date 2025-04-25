@@ -70,8 +70,13 @@ Wer also im Sommer nicht mehr schwitzen will, bekommt hier ein rundes Gesamtpake
 **👍 Ideal für:** Schlafzimmer, Büros und mittelgroße Wohnräume – besonders bei Hitzeperioden.  
 **👎 Weniger geeignet für:** Sehr große Räume oder Nutzer mit extrem hohen Ansprüchen an Lautstärke.
 
+
+*#Ad*
+*Hierbei handelt es sich um bezahlte Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
 [De'Longhi Pinguino PAC EM93 Silent auf Amazon ansehen](https://amzn.to/4cGNXBF)*
 
 [Zugehörige Fensterabdichtung auf Amazon ansehen](https://amzn.to/3G83NZU)*
-
-*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*

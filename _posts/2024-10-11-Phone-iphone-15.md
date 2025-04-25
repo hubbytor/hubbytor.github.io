@@ -53,6 +53,11 @@ Das **Apple iPhone 15** überzeugt mit seinem starken Display, guter Performance
 **👍 Ideal für:** Nutzer, die Wert auf Performance, Kameraqualität und ein hochwertiges Design legen.  
 **👎 Weniger geeignet für:** Nutzer, die einen erweiterbaren Speicher oder ein Netzteil im Lieferumfang erwarten.
 
-[Apple iPhone 15 auf Amazon ansehen](https://amzn.to/4iMw6uT)*
 
-*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+*#Ad*
+*Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
+[Apple iPhone 15 auf Amazon ansehen](https://amzn.to/4iMw6uT)*

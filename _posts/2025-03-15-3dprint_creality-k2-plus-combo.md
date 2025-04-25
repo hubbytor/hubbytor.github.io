@@ -58,6 +58,11 @@ Durch seine **robuste CoreXY-Bauweise und innovative Features** bietet er eine h
 **👍 Ideal für:** Profis, Maker und Bildungseinrichtungen, die Wert auf Mehrfarbdruck und große Bauvolumen legen.  
 **👎 Weniger geeignet für:** Anfänger, die einen einfachen Plug-and-Play-Drucker suchen.
 
-[Creality K2 Plus Combo auf Amazon ansehen](https://amzn.to/3XXH60v)*
 
-*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+*#Ad*
+*Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
+[Creality K2 Plus Combo auf Amazon ansehen](https://amzn.to/3XXH60v)*

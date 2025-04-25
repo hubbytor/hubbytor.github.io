@@ -46,6 +46,11 @@ Der **Bambu Lab A1** überzeugt mit hoher Druckqualität, zuverlässiger Perform
 **👍 Ideal für:** Hobbyisten und Profis, die Wert auf gute Druckqualität legen.  
 **👎 Weniger geeignet für:** Nutzer, die absolut lautlose Geräte bevorzugen.
 
-[Bambu Lab A1 auf Amazon ansehen](https://amzn.to/424KTLO)*
 
-*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+*#Ad*
+*Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
+[Bambu Lab A1 auf Amazon ansehen](https://amzn.to/424KTLO)*

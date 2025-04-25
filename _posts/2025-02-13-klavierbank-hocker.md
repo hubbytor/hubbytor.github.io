@@ -46,6 +46,11 @@ Ich hätte mir diesen Hocker ehrlich gesagt schon viel früher zulegen sollen.
 **👍 Ideal für:** Pianist:innen, die eine langlebige, bequeme und verstellbare Sitzgelegenheit suchen.  
 **👎 Weniger geeignet für:** Wer eine Klavierbank mit zusätzlichem Stauraum oder besonders breiter Sitzfläche möchte.
 
-[ Klavierbank auf Amazon ansehen](https://amzn.to/4kVEiLm)*
 
-*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+*#Ad*
+*Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
+[ Klavierbank auf Amazon ansehen](https://amzn.to/4kVEiLm)*

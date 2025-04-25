@@ -47,6 +47,11 @@ Der **Creality K1C** überzeugt mit hoher Druckqualität, zuverlässiger Perform
 **👍 Ideal für:** Hobbyisten und Profis, die Wert auf gute Druckqualität legen.  
 **👎 Weniger geeignet für:** Nutzer, die absolut lautlose Geräte bevorzugen.
 
-[Creality K1C auf Amazon ansehen](https://amzn.to/4bQiP21)*
 
-*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+*#Ad*
+*Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
+[Creality K1C auf Amazon ansehen](https://amzn.to/4bQiP21)*

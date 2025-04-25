@@ -48,6 +48,11 @@ Der **TELEFUNKEN D65U750X2CW** ist eine gute Wahl für Film- und Serienliebhaber
 **👍 Ideal für:** Film- und Serienfans, die einen modernen Smart-TV suchen.  
 **👎 Weniger geeignet für:** Gamer, die hohe Bildwiederholraten benötigen.
 
-[TELEFUNKEN D65U750X2CW auf Amazon ansehen](https://amzn.to/3DspAdZ)*
 
-*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+*#Ad*
+*Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
+[TELEFUNKEN D65U750X2CW auf Amazon ansehen](https://amzn.to/3DspAdZ)*

@@ -48,6 +48,11 @@ Der **Samsung QE65Q60DAU** ist eine gute Wahl für Film- und Serienliebhaber mit
 **👍 Ideal für:** Film- und Serienfans, die einen modernen Smart-TV suchen.  
 **👎 Weniger geeignet für:** Gamer, die hohe Bildwiederholraten benötigen.
 
-[Samsung QE65Q60DAU auf Amazon ansehen](https://amzn.to/4221obz)*
 
-*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+*#Ad*
+*Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
+[Samsung QE65Q60DAU auf Amazon ansehen](https://amzn.to/4221obz)*

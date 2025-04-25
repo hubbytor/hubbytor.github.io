@@ -61,6 +61,11 @@ Wer auf der Suche nach einem portablen Gerät für unterwegs oder daheim ist und
 **👍 Ideal für:** Aromaliebhaber:innen, die diskret & mobil verdampfen wollen.  
 **👎 Weniger geeignet für:** Cloud-Chaser, die maximale Dampfwolken erwarten.
 
-[WOLKENKRAFT ÄRiS auf Amazon ansehen](https://amzn.to/423YH9I)*
 
-*Hierbei handelt es sich um Affiliate-Links. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+*#Ad*
+*Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*
+
+*As an Amazon Associate I earn from qualifying purchases.*
+
+
+[WOLKENKRAFT ÄRiS auf Amazon ansehen](https://amzn.to/423YH9I)*
