@@ -61,8 +61,10 @@ Gerade für BBQ-Enthusiasten sind sie ein echter Gamechanger.
 **👍 Ideal für:** Longjobs, Smoker, BBQ-Fans, Nachhaltigkeitsbewusste  
 **👎 Weniger geeignet für:** Spontanes Grillen ohne Anzündkamin
 
-[McBrikett KOKOKO EGGS auf Amazon ansehen](https://amzn.to/438ichR)*
+
 
 *#Ad*  
 *Hierbei handelt es sich um einen bezahlten Link. Für Euch entstehen durch den Kauf über diese Links keine weiteren Kosten, jedoch erhalte ich eine kleine Verkaufs-Provision. So könnt Ihr mich ganz einfach bei meinem Projekt unterstützen.*  
 *As an Amazon Associate I earn from qualifying purchases.*
+
+[McBrikett KOKOKO EGGS auf Amazon ansehen](https://amzn.to/438ichR)*
